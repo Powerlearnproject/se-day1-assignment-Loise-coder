@@ -7,7 +7,12 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 The process of designing, developing and maintaining software.
-
+Which of the following describes software engineering?
+a) The study of hardware components 
+b) The process of designing, developing and maintaining software 
+c) The analysis of networking protocols 
+d) The management of data storage systems 
+The process of designing, developing and maintaining software.
 
 It ensures a software system meets the user requirements and produces high-quality software solutions.
 Identify and describe at least three key milestones in the evolution of software engineering.
