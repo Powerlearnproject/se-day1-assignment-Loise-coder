@@ -29,6 +29,7 @@ Deployment - Means putting the software live, where users can start using it.
 Maintenance - Keeping the software running smoothly 
 
 
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodology is a linear, sequential approach where each phase must be completed before the next begins while agile methodology is an iterative, flexible and adaptation.
 Waterfall can be used in infrastructure projects while agile in rapidly changing markets.
