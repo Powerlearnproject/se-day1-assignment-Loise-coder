@@ -10,6 +10,7 @@ The process of designing, developing and maintaining software.
 
 
 Which of the following describes software engineering? 
+
 The process of designing, developing and maintaining software.
 It ensures a software system meets the user requirements and produces high-quality software solutions.
 
@@ -27,6 +28,9 @@ Development - Where coding takes place and the project is brought to life
 Testing - Making sure everything works as expected 
 Deployment - Means putting the software live, where users can start using it.
 Maintenance - Keeping the software running smoothly 
+
+
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodology is a linear, sequential approach where each phase must be completed before the next begins while agile methodology is an iterative, flexible and adaptation.
